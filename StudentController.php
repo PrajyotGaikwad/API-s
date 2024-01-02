@@ -104,3 +104,13 @@ class StudentController extends Controller
     }
 }
 
+//INSERT MULTIPLE DATA IN POSTMAN
+// {
+// "student":[
+//     {    
+//     "name" : "New Data",
+//     "age" :"23",
+//     "city" : "Pune City"
+// }
+// ]
+// }
